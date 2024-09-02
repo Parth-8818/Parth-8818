@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Parth-8818
+- 👋 Hi coders, I’m Parth_ ...
 - 👀 I’m interested in web devlopment 
 - 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me xxxxxx8818
+- 🪧  I’m interested in Cyber Security...
 - ⚡ Fun fact: moving 
 
 <!---
